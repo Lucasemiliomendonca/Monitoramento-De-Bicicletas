@@ -1,0 +1,14 @@
+C:\Lucas\MonitoramentoDeBicicletas\bin\Debug\net9.0\MonitoramentoDeBicicletas.exe
+C:\Lucas\MonitoramentoDeBicicletas\bin\Debug\net9.0\MonitoramentoDeBicicletas.deps.json
+C:\Lucas\MonitoramentoDeBicicletas\bin\Debug\net9.0\MonitoramentoDeBicicletas.runtimeconfig.json
+C:\Lucas\MonitoramentoDeBicicletas\bin\Debug\net9.0\MonitoramentoDeBicicletas.dll
+C:\Lucas\MonitoramentoDeBicicletas\bin\Debug\net9.0\MonitoramentoDeBicicletas.pdb
+C:\Lucas\MonitoramentoDeBicicletas\obj\Debug\net9.0\MonitoramentoDeBicicletas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lucas\MonitoramentoDeBicicletas\obj\Debug\net9.0\MonitoramentoDeBicicletas.AssemblyInfoInputs.cache
+C:\Lucas\MonitoramentoDeBicicletas\obj\Debug\net9.0\MonitoramentoDeBicicletas.AssemblyInfo.cs
+C:\Lucas\MonitoramentoDeBicicletas\obj\Debug\net9.0\MonitoramentoDeBicicletas.csproj.CoreCompileInputs.cache
+C:\Lucas\MonitoramentoDeBicicletas\obj\Debug\net9.0\MonitoramentoDeBicicletas.dll
+C:\Lucas\MonitoramentoDeBicicletas\obj\Debug\net9.0\refint\MonitoramentoDeBicicletas.dll
+C:\Lucas\MonitoramentoDeBicicletas\obj\Debug\net9.0\MonitoramentoDeBicicletas.pdb
+C:\Lucas\MonitoramentoDeBicicletas\obj\Debug\net9.0\MonitoramentoDeBicicletas.genruntimeconfig.cache
+C:\Lucas\MonitoramentoDeBicicletas\obj\Debug\net9.0\ref\MonitoramentoDeBicicletas.dll
